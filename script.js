@@ -1,4 +1,4 @@
-const API_KEY = '6ddb7299'; // Substitua pelo seu próprio chave API
+const API_KEY = '6ddb7299';
 const movieList = document.getElementById('movieList');
 const searchInput = document.getElementById('searchInput');
 
